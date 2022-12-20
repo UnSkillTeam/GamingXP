@@ -30,6 +30,7 @@
 - Червы
 
 ## :floppy_disk: Скачать
+<a href="https://github.com/UnSkillTeam/GamingXP/releases/tag/Release">Скачать (GitHub)</a>
 <a href="https://disk.yandex.ru/d/8BIPfMwMoU8ibQ">Скачать (Яндекс Диск)</a>
 
 **Контрольная сумма:**
