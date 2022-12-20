@@ -1,6 +1,6 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/79802366/183930426-920569b4-baca-4e75-adb5-43528024dc06.png" width="15%" height="15%"></div>
   <h1 align="center">GamingXP</h1>
-  <p align="center">Дистрибутив Windows XP, в котором содержаться игры и ничего больше!</p>
+  <p align="center">Дистрибутив Windows XP, в котором содержатся игры и ничего больше!</p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/79802366/183933199-f38c30aa-b5cb-4a77-a8d8-f7f0cf5d5a12.png" width="50%" height="50%" align="center">
 </div>
